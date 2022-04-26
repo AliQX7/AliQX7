@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali!
-- 👀 I’m interested in Machine Learning, Deep Learning, Software Engineering, and Data Science. 
+- 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence, Software Engineering, and Data Science. 
 - 🌱 I’m currently learning Django and Flask. 
 
 <!---
